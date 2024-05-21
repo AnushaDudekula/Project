@@ -11,5 +11,9 @@ public class ContactTest {
 	public void createconTest() {
 	System.out.println("anusha");	
 	}
+	@Test
+	public void deleteconTest() {
+	System.out.println("anusha");	
+	}
 
 }
