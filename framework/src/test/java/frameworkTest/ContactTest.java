@@ -6,6 +6,10 @@ public class ContactTest {
 	@Test
 	public void createTest() {
 		System.out.println("anusha");
+		System.out.println(System.getProperty("browser"));
+		System.out.println(System.getProperty("url"));
+		System.out.println(System.getProperty("username"));
+		System.out.println(System.getProperty("password"));
 	}
 	@Test
 	public void createconTest() {
