@@ -9,5 +9,8 @@ public class CreateBooksSearch {
 	public void searchBooks() {
 		System.out.println("Books search Test case is created");
 	}
-
+	@Test
+	public void searchBooks1() {
+		System.out.println("Books search Test case is created");
+	}
 }
