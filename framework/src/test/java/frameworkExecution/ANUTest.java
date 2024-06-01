@@ -7,4 +7,8 @@ public class ANUTest {
 public void sampleTest() {
 	System.out.println("anusha");
 }
+@Test
+public void sample_02Test() {
+	System.out.println("anusha & rekha");
+}
 }
